@@ -24,16 +24,6 @@ Error Handling – Ensuring data accuracy & reliability
 
 Key Performance Indicators (KPIs) Tracked
 
-Revenue & Profitability – Evaluating financial success
-
-Units Sold & Average Unit Price – Understanding sales volume & pricing trends
-
-Customer Segmentation – Identifying high-value customers & loyalty impact
-
-Sales Trends Over Time – Spotting seasonal demand fluctuations
-
-Regional Sales Performance – Analyzing market distribution & geographic insights
-
 ## 📊 Dashboard Insights
 
 📈 Total Sales Over Time – Trends & seasonal patterns
